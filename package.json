@@ -1,0 +1,25 @@
+{
+  "name": "socket.io-demo",
+  "version": "1.0.0",
+  "description": "demo Socket.IO based on chat example https://socket.io/get-started/chat/",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.metropolia.fi:patricka/socket.io-demo.git"
+  },
+  "keywords": [
+    "express",
+    "Socket.IO",
+    "WebSocket"
+  ],
+  "author": "Patrick Ausderau",
+  "license": "GPL-3.0"
+}
