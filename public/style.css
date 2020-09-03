@@ -180,8 +180,6 @@ a {
 .join-main .btn {
 	margin-top: 20px;
 	width: 100%;
-	background: var(--dark-color-a);
-	color:black;
 }
 
 @media (max-width: 700px) {
