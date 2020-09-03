@@ -138,6 +138,7 @@ a {
 .join-header {
 	text-align: center;
 	padding: 20px;
+	color:black;
 	background: var(--dark-color-a);
 	border-top-left-radius: 5px;
 	border-top-right-radius: 5px;
@@ -159,6 +160,7 @@ a {
 .join-main label {
 	display: block;
 	margin-bottom: 5px;
+	color: black;
 }
 
 .join-main input[type='text'] {
@@ -178,6 +180,8 @@ a {
 .join-main .btn {
 	margin-top: 20px;
 	width: 100%;
+	background: var(--dark-color-a);
+	color:black;
 }
 
 @media (max-width: 700px) {
